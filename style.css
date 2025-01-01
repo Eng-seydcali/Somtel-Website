@@ -308,9 +308,10 @@
     background: #0056b3;
 }
 .footer {
-    background-color: #00204a;
+    background-color: #5a79a0;
     color: #fff;
     padding: 20px;
+    margin-top: 40px;
   }
   
   .footer-content {
